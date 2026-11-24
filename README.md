@@ -1,6 +1,6 @@
 <div align="center">
 
-# Bharath
+# Bharath R
 
 ### Java Full Stack Developer
 
